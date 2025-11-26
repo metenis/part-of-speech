@@ -1,0 +1,6 @@
+# Core NLP Library
+
+spacy
+
+# Data Manipulation
+pandas>=2.0.0
