@@ -1,8 +1,8 @@
-POS Tagging with spaCy
+# POS Tagging with spaCy
 
 This project performs Part-of-Speech (POS) tagging on a sample text from Jane Austen's Emma. It utilizes the spaCy NLP library to parse text and Pandas to structure the output for analysis.
 
-<Prerequisites
+# Prerequisites
 
 Python 3.8 or higher
 
@@ -18,14 +18,14 @@ pip install -r requirements.txt
 
 Note: The requirements file includes a direct link to the model wheel, so you do not need to run a separate python -m spacy download command.
 
-Usage
+# Usage
 
 Run the script from your terminal:
 
 python pos_tagging.py
 
 
-Output
+# Output
 
 The script will:
 
